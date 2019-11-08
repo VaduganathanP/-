@@ -1,2 +1,2 @@
 # தமிழி(Tamizhi)
-நிரலாக்க மொழி தமிழில்(Programming language in Tamil)
+தமிழில் நிரலாக்க மொழி (Programming language in Tamil)
